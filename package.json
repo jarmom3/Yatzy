@@ -1,0 +1,15 @@
+{
+  "name": "yatzy",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node --use_strict server.js"
+  },
+  "description": "yatzy-server by jjm3",
+  "dependencies": { 
+    "express": "3.x",
+    "body-parser": "1.x",
+    "sqlite3": "3.x"
+  }
+}
